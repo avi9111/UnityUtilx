@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+/Library
+/Temp
+/UserSettings
+/Logs
+/Assets/BigWorld/Prefabs/
+/Assets/BigWorld/Map Data/
+/Assets/URPSample
+/Assets/URPSample.meta
+.idea/
+obj/
